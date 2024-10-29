@@ -4,7 +4,7 @@ The goal of this project is to make Deleuzian concepts more intuitive using MNIS
 
 See it in action [here](https://interactive-deleuze.vercel.app/).
 
-Glossary of concepts
+## Glossary of concepts
 
 - the **Body without Organs** (BwO) is like random noise - disorganized nothingness
 - **strata** are coherent organizations of a BwO, in our case recognizable digits
