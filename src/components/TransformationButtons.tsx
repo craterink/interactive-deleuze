@@ -1,10 +1,10 @@
-import React from "react";
+import React from 'react'
 
 interface TransformationButtonsProps {
-  onDeterritorialize: () => void;
-  onReterritorialize: () => void;
-  disableDeterritorialize: boolean;
-  disableReterritorialize: boolean;
+  onDeterritorialize: () => void
+  onReterritorialize: () => void
+  disableDeterritorialize: boolean
+  disableReterritorialize: boolean
 }
 
 const TransformationButtons: React.FC<TransformationButtonsProps> = ({
@@ -21,6 +21,6 @@ const TransformationButtons: React.FC<TransformationButtonsProps> = ({
       Reterritorialize
     </button>
   </div>
-);
+)
 
-export default TransformationButtons;
+export default TransformationButtons
